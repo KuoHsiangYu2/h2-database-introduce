@@ -33,7 +33,7 @@ h2.bat
 <br />
 <br />
 
-![image](.\image\image01_messageImage_1739174170961.jpg)
+![image](image/image01_messageImage_1739174170961.jpg)
 
 <br />
 
@@ -93,7 +93,7 @@ Windows OS 使用者 在這個檔案
 
 放一下範例程式<br />
 
-![image](.\image\image02_messageImage_1739174863772.jpg)
+![image](image/image02_messageImage_1739174863772.jpg)
 
 <br />
 <br />
@@ -103,7 +103,7 @@ Windows OS 使用者 在這個檔案
 
 放一下 『Preferences』 登入畫面。<br />
 
-![image](.\image\image03_messageImage_1739175450935.jpg)
+![image](image/image03_messageImage_1739175450935.jpg)
 
 <br />
 <br />
