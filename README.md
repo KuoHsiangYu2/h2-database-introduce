@@ -79,15 +79,15 @@ Windows OS 使用者 在這個檔案
 
 但你以為這樣就可以了嗎？
 不！並沒有！
-你必須放入 hash過 的 密碼進 設定檔案 才可以！
+你必須放入 hash 過的 密碼 進設定檔案才可以！
 那麼要用什麼方法 hash密碼？
 你要在 Java Project 裡面引入『h2-2.3.232.jar』，
 接著去呼叫 static method encodeAdminPassword() ，
-然後傳入 12位碼 長度的密碼。
+傳入 12位碼 長度的密碼。
 執行程式 產出 hash 過的 密碼。
 再把該 hash密碼 複製貼上 .h2.server.properties設定檔，
 關閉 H2資料庫 重新啟動 H2資料庫。
-設定吃進去。
+讓設定吃進去。
 
 ```
 
